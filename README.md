@@ -1,2 +1,5 @@
 # pinger
-simple ip pinger faster
+simple ip pinger 
+___________________
+
+turn pinger.txt to pinger.bat
