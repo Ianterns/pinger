@@ -1,7 +1,7 @@
 title pinger
 echo off & cls
 color F
-echo join discord.gg/listing for daily pfps & gws                                                       
+echo join discord.gg/listing                                                     
 echo =======================================
 echo            CTRL C TO STOP
 echo =======================================                                                                                                                                                              
